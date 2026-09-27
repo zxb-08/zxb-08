@@ -1,6 +1,6 @@
 <pre style="font-family:'Courier New',Courier,monospace;font-size:12px;line-height:1.17;white-space:pre;background-color:#000;color:#fff;padding:8px;margin:0;"><span style="color:#661100">█████████ ███▄ ▄███ ██████▄  ▄███████▄ ▄███████▄</span>
 <span style="color:#992200">   ▄████▀  ▀█████▀  ███  ▐█▌ ██▀  ▄▀██ ███   ███</span>
-<span style="color:#DD4400">  ▄████▀     ▄███▄   ███▀▀▀█▄ ██ ▄▀  ██ ▄██▀▀▀██▄</span>
+<span style="color:#DD4400"> ▄████▀     ▄███▄   ███▀▀▀█▄ ██ ▄▀  ██ ▄██▀▀▀██▄</span>
 <span style="color:#FF8800">█████▄▄▄▄ ▄███▀███▄ ███▄▄▄██ ███▄▄▄███ ███▄▄▄███</span>
 <span style="color:#FFEE00">▀▀▀▀▀▀▀▀▀ ▀▀▀   ▀▀▀ ▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀ </span></pre>
 
