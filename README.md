@@ -29,7 +29,7 @@ _**I'm looking to collaborate on:**_ Open-source security tools, CTF writeups, v
 
 ```
 Pre Security ......... ██████████  COMPLETED
-Cyber Security 101 ... ███████░░░  IN PROGRESS
+Cyber Security 101 ... ██████████  COMPLETED
 ```
 
 | Area | Skills |
