@@ -25,13 +25,6 @@ _**I'm looking to collaborate on:**_ Open-source security tools, CTF writeups, v
 
 ## >> **Skills & Learning**
 
-**TryHackMe Progress**
-
-```
-Pre Security ......... ██████████  COMPLETED
-Cyber Security 101 ... ██████████  COMPLETED
-```
-
 | Area | Skills |
 |---|---|
 | Networking | OSI/TCP-IP, IP addressing, ports, DNS, HTTP, packet analysis |
