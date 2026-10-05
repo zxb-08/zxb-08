@@ -51,3 +51,4 @@ Cyber Security 101 ... ██████████  COMPLETED
 | Certificate | Issuer | Completed | Verify |
 |---|---|---|---|
 | ![Pre Security](https://img.shields.io/badge/TryHackMe-Pre%20Security-22c55e?logo=tryhackme&logoColor=white) | TryHackMe | Aug 2026 | [THM-9BZ11YLKEL](https://tryhackme.com/certificate/THM-9BZ11YLKEL) |
+| ![Cyber Security 101](https://img.shields.io/badge/TryHackMe-Cyber%20Security%20101-22c55e?logo=tryhackme&logoColor=white) | TryHackMe | Oct 2026 | [THM-BZ5TUMPJE2](https://tryhackme.com/certificate/THM-BZ5TUMPJE2) |
