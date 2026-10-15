@@ -40,7 +40,7 @@ B.Tech CS student building real cybersecurity skills through hands-on labs, traf
 | Project | What it does | Stack |
 |---|---|---|
 | [**Webhook Keylogger Detection**](https://github.com/zxb-08/webhook-keylogger-detection) | Detects keyloggers that exfiltrate data through webhooks | Python |
-| [**SIEM Alert Noise Analysis**](https://github.com/zxb-08/Noise-vs-Signal) | Research on false positives in a Splunk SIEM lab | Splunk |
+| [**SIEM Alert Noise Analysis**](https://github.com/zxb-08/signal-vs-noise) | Research on false positives in a Splunk SIEM lab | Splunk |
 
 
 
