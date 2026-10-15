@@ -5,37 +5,42 @@
 <span style="color:#AAAAAA">▀▀▀▀▀▀▀▀▀ ▀▀▀   ▀▀▀ ▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀ </span></pre>
 
 
-
 ## >> **About me**
 
-_**I'm currently working on:**_ SOC/Blue Team skills — Wireshark traffic analysis, Wazuh SIEM home lab, ISC2 CC certification prep<br>
-_**I'm currently learning:**_ Malware traffic analysis, network forensics, TryHackMe SOC path<br>
-_**I'm looking to collaborate on:**_ Open-source security tools, CTF writeups, vulnerability assessment projects
+B.Tech CS student building real cybersecurity skills through hands-on labs, traffic analysis, and public write-ups.
+
+- **Working on:** Wazuh SIEM home lab, Wireshark traffic analysis, ISC2 CC prep
+- **Learning:** Malware traffic analysis, network forensics, TryHackMe SOC path
+- **Collaborating on:** Open-source security tools, CTF write-ups, vulnerability assessment projects
 
 
 
 ## >> **Socials**
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/YOUR_USER_ID)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/758280372604895242)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/zxb)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zabiullahmehdi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zabiullahmehdi)
 
 
 
-## >> **Skills & Learning**
+## >> **Skills**
 
 | Area | Skills |
 |---|---|
-| Networking | OSI/TCP-IP, IP addressing, ports, DNS, HTTP, packet analysis |
-| Linux & Windows | CLI, PowerShell, file permissions, Active Directory basics |
-| Web | Browser/server/request workflow |
-| Cryptography | Hashing, encryption, key exchange |
-| Secure Protocols | TLS, SSH, VPNs |
-| Security Fundamentals | Offensive vs defensive roles, career paths |
-| Tools | Wireshark, Nmap, Metasploit |
-| Offensive Tooling | Nmap, Hydra, Gobuster, SQLMap |
-| Defensive Security | SOC fundamentals, digital forensics, incident response, log analysis |
+| **Defensive / SOC** | Wazuh, Splunk, log analysis, alert triage, incident response, digital forensics |
+| **Network Analysis** | Wireshark, Nmap, TCP/IP, DNS, HTTP, packet analysis |
+| **Offensive (Learning)** | Metasploit, Hydra, Gobuster, SQLMap |
+| **Systems** | Linux CLI, PowerShell, file permissions, Active Directory basics |
+| **Security Fundamentals** | Hashing, encryption, TLS, SSH, VPNs, CIA triad |
+
+
+## >> **Projects**
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Webhook Keylogger Detection**](https://github.com/zxb-08/webhook-keylogger-detection) | Detects keyloggers that exfiltrate data through webhooks | Python |
+| [**SIEM Alert Noise Analysis**](https://github.com/zxb-08/Noise-vs-Signal) | Research on false positives in a Splunk SIEM lab | Splunk |
 
 
 
