@@ -13,7 +13,6 @@ Thanks to my teammates and TryHackMe for a great event!
 
 ## Event Gallery
 
-
 | | |
 |:---:|:---:|
 | <img src="Gallery/01-thm-event.png" /> | <img src="Gallery/02-th-simulator.png" /> |
