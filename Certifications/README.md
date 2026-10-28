@@ -1,4 +1,5 @@
 # TryHackMe: The Downtime! (Simulator-Led CTF)
+<img src="Gallery/THM-DHWYHYFAMW.png" />
 
 **Event Date:** Oct 22 - Oct 26, 2026
 **Team:** Cy83r0ps
