@@ -40,6 +40,8 @@ B.Tech CS student building real cybersecurity skills through hands-on labs, traf
 |---|---|---|
 | [**Webhook Keylogger Detection**](https://github.com/zxb-08/webhook-keylogger-detection) | Detects keyloggers that exfiltrate data through webhooks | Python |
 | [**SIEM Alert Noise Analysis**](https://github.com/zxb-08/signal-vs-noise) | Research on false positives in a Splunk SIEM lab | Splunk |
+| [**Local LLM cyber benchmark**](https://github.com/zxb-08/local-llm-cyber-benchmark) | Benchmarks local LLMs on SOC tasks and cyber knowledge | Ollama |
+
 
 
 
