@@ -13,7 +13,9 @@ Thanks to my teammates and TryHackMe for a great event!
 
 ## Event Gallery
 
+
 | | |
 |:---:|:---:|
 | <img src="Gallery/01-thm-event.png" /> | <img src="Gallery/02-th-simulator.png" /> |
-| <img src="Gallery/04-cyberchef.png" /> |  <img src="Gallery/06-leaderboard.png" /> |
+| <img src="Gallery/04-cyberchef.png" /> | <img src="Gallery/05-questions.png" /> |
+| <img src="Gallery/03-scoreboard.png" /> | <img src="Gallery/06-leaderboard.png" /> |
