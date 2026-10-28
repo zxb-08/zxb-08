@@ -13,11 +13,8 @@ hanks to my teammates and TryHackMe for a great event!
 
 ## Event Gallery
 
-<p align="center">
-  <img src="assets/downtime/01-thm-event.png" />
-  <img src="assets/downtime/02-th-simulator.png" />
-  <img src="assets/downtime/04-cyberchef.png" />
-  <img src="assets/downtime/05-questions.png" />
-  <img src="assets/downtime/03-scoreboard.png" />
-  <img src="assets/downtime/06-leaderboard.png" />
-</p>
+| | |
+|:---:|:---:|
+| <img src="Gallery/01-thm-event.png" /> | <img src="Gallery/02-th-simulator.png" /> |
+| <img src="Gallery/04-cyberchef.png" /> | <img src="Gallery/05-questions.png" /> |
+| <img src="Gallery/03-scoreboard.png" /> | <img src="Gallery/06-leaderboard.png" /> |
