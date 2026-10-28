@@ -13,3 +13,9 @@ hanks to my teammates and TryHackMe for a great event!
 
 ## Event Gallery
 
+![Event Landing Page](assets/downtime/01-thm-event.png)
+![Threat Hunting Simulator](assets/downtime/02-th-simulator.png)
+![CyberChef Analysis](assets/downtime/04-cyberchef.png)
+![Incident Response Questions](assets/downtime/05-questions.png)
+![Task Completion](assets/downtime/03-scoreboard.png)
+![Final Leaderboard](assets/downtime/06-leaderboard.png)
